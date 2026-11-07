@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/kivy/kivy-launcher/commit/a2f223f1458ffa631b08054f64a71fa5fb234015",
       "git:hexsha": "a2f223f1458ffa631b08054f64a71fa5fb234015",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-07T12:25:01.281726+00:00"
     },
     {
       "@id": "https://repolex.ai/r/kivy/kivy-launcher/commit/ba75b904a326af2562bbf59be71324a85cbd2b96",
