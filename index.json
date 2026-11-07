@@ -1,0 +1,11 @@
+{
+  "org": "kivy",
+  "repo": "kivy-launcher",
+  "versions": [
+    {
+      "commit": "a2f223f1458ffa631b08054f64a71fa5fb234015",
+      "tag": "",
+      "parsed_at": "2026-11-07T12:25:01.282084+00:00"
+    }
+  ]
+}
