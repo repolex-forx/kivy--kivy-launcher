@@ -1,0 +1,46 @@
+{
+  "manifest_version": "1.0",
+  "org": "kivy",
+  "repo": "kivy-launcher",
+  "versions": [
+    {
+      "commit": "a2f223f1458ffa631b08054f64a71fa5fb234015",
+      "parsed_at": "2026-11-07T12:22:19.000042+00:00",
+      "filetree": "filetree/a2f223f1458ffa631b08054f64a71fa5fb234015.nq.gz",
+      "blobs": [
+        "blob/90d231af05d3a0fcc463dcad0cd6514a9364ca58.nq.gz",
+        "blob/beaab3366f0de9c53ee27b2255b6687eaeac444f.nq.gz",
+        "blob/418796e58c3cb5ea259e6fc59a52000dca62660c.nq.gz",
+        "blob/2e81b3c6d8e01ca3739b484678c0104f43fb00cd.nq.gz",
+        "blob/8fa3da363e9fc1a7718943afa7f5ed21448040bd.nq.gz",
+        "blob/48ad3bc1ea1d61075a8a77e5425bc7fc5b1dee11.nq.gz",
+        "blob/9c53d1c0c71bb18a09582a0ea0b36961b43b7435.nq.gz",
+        "blob/ca0fc23ff9ab748097fe5af62de3fb90f82b40c1.nq.gz",
+        "blob/83597cf03748e0e732b41b005e9fcef9ed078a1f.nq.gz",
+        "blob/5e0d3215328a588fb721ff3cff60d66583b030ed.nq.gz",
+        "blob/cf91be86c7c9326ca4ed3f94e3b9bbea4ac5ffbb.nq.gz",
+        "blob/6f907b0d10d247f22bdf6d669406d33803f46ca1.nq.gz",
+        "blob/6a9513371a957b50eae98c8725e89ddc4668ab52.nq.gz",
+        "blob/4fb7cd667020860146129add2c3c6762bc907e70.nq.gz",
+        "blob/2838d5d5f024bc57e71032092c0ee75848d6a141.nq.gz",
+        "blob/bbcbbe7d61558adde3cbfd0c7a63a67c27ed6d30.nq.gz",
+        "blob/66922b8b6d17c7c44b617c18a220331dec292c70.nq.gz",
+        "blob/65fb9be3dd36ca489c03a2bd5a5216e3babbb0d7.nq.gz",
+        "blob/cbdaf5162c1ef0761c83b3ed21a40d8a19044540.nq.gz",
+        "blob/2625dd4f26abe7cf9e7aa0bfca6beeb32595b691.nq.gz",
+        "blob/b3abdc66411d1b8d938ee4f8c0398fc2d5814855.nq.gz",
+        "blob/ac5a9562fbd637637048f00b8a8eb86e6dbb4f88.nq.gz",
+        "blob/3f991c9b3ee80d3c78efdbdcc33238f64b15e881.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/7e8b0945689e0c91e31637fbaa007078e02167a0.nq.gz",
+        "blob/0d4f27272bb23b9d734476ca695fc328f521b5c2.nq.gz",
+        "blob/fa8d599f953b162b5b81bc5b126ce536fa215e74.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
